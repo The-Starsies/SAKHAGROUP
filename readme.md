@@ -1,8 +1,8 @@
 ![alt text](Hero-Section.png)
 
-# Home Estate - Real Estate - Syed Ismail
+# Home Estate - Real Estate - SAKHAGROUP
 
-Welcome to the "Bootstrap - Syed Ismail" project! This project is a personal website built using HTML, CSS, and Bootstrap, along with some additional libraries for animations and styling.
+Welcome
 
 ## Project Structure
 The project consists of the following sections:
@@ -37,13 +37,6 @@ The project includes the following files:
 
 ## Getting Started
 
-To view the project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repo/Home-Heaven.git
-    ```
-2. Open the `index.html` file in your browser.
 
 ## Sections Description
 
@@ -95,6 +88,6 @@ This project is open-source and available for personal and commercial use.
 ## Contact
 
 For any queries or suggestions, please contact Syed Ismail Shah. 
-Email: syedm.ismail04@gmail.com
+Email: Zack85.email@gmail.com
 
 Enjoy building your personal website!
