@@ -87,7 +87,7 @@ This project is open-source and available for personal and commercial use.
 
 ## Contact
 
-For any queries or suggestions, please contact Syed Ismail Shah. 
+For any queries or suggestions, please contact Isaac towindo. 
 Email: Zack85.email@gmail.com
 
 Enjoy building your personal website!
